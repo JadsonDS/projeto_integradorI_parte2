@@ -11,6 +11,5 @@ streamlit==1.35.0
 ipython==8.18.1
 boruta==0.3
 bayesian-optimization==1.4.2
-association-metrics==0.0.1
 scipy==1.11.4
 requests==2.32.3
